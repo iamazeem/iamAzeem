@@ -3,17 +3,18 @@
 Welcome to my [GitHub](https://github.com/iamAzeem) profile!
 
 I am a Software Engineer. 🤓  
-I write code to build software that solve technical problems.
+I write code to build software to solve technical problems.
 
 I am an autodidact polymath and polyglot.  
-I write code in C, C++, Ruby, Python, Golang, etc. ❤️
+I write code in C, C++, Ruby, Python, Golang, Java, and some other languages.  
+However, I mostly work with C, C++, Qt, and Ruby on Linux-based systems. ❤️
 
 I contribute to
 [StackOverflow](https://stackoverflow.com/users/7670262/azeem?tab=profile) and
 [LinkedIn](https://www.linkedin.com/in/az33msajid/) whenever I get a chance.
 
 I also do freelance software development. 💻  
-Please do [contact me](mailto:azeem.sajid@gmail.com) for freelance work and/or
+[Contact me](mailto:azeem.sajid@gmail.com) for freelance work and/or
 collaboration. ⌨️
 
 Here are some of my open-source projects:
@@ -25,10 +26,10 @@ Here are some of my open-source projects:
 - [fluent-plugin-protobuf-http](https://github.com/iamAzeem/fluent-plugin-protobuf-http) (Ruby)
 - [Sequence Similarity and Identity Calculator](https://github.com/iamAzeem/ssic) (Java)
 
-For the complete list, please go to
+For the complete list of public repositories, go to
 [Repositories](https://github.com/iamAzeem?tab=repositories).
 
-Thank you for stopping by! 😃 👍
+Thanks for stopping by! 😃 👍
 
 [Email](mailto:azeem.sajid@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/az33msajid) |
