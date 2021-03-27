@@ -17,7 +17,7 @@ I also do freelance software development. 💻
 [Contact me](mailto:azeem.sajid@gmail.com) for freelance work and/or
 collaboration. ⌨️
 
-Here are some of my open-source projects:
+👇 Some of my open-source projects:
 
 - [GmailArchiver](https://github.com/iamAzeem/GmailArchiver) (C++)
 - [TcpClientServerApp](https://github.com/iamAzeem/TcpClientServerApp) (C++)
@@ -26,13 +26,13 @@ Here are some of my open-source projects:
 - [fluent-plugin-protobuf-http](https://github.com/iamAzeem/fluent-plugin-protobuf-http) (Ruby)
 - [Sequence Similarity and Identity Calculator](https://github.com/iamAzeem/ssic) (Java)
 
-For the complete list of public repositories, go to
-[Repositories](https://github.com/iamAzeem?tab=repositories).
-
 Thanks for stopping by! 😃 👍
 
 [Email](mailto:azeem.sajid@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/az33msajid) |
 [StackOverflow](https://stackoverflow.com/users/7670262/azeem) |
-[GitHub](https://github.com/iamAzeem) |
-[RubyGems](https://rubygems.org/profiles/iamAzeem)
+[RubyGems](https://rubygems.org/profiles/iamAzeem) |
+[GitHub](https://github.com/iamAzeem)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamAzeem&theme=algolia&show_icons=true&count_private=true)](https://github.com/iamAzeem/)
+[![Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAzeem&theme=algolia&langs_count=10&layout=compact&hide_title=true)](https://github.com/iamAzeem/)
