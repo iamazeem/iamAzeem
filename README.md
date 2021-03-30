@@ -1,7 +1,5 @@
 # Hi! 👋 I am Azeem. 🙂
 
-Welcome to my [GitHub](https://github.com/iamAzeem)!
-
 I am a Software Engineer; and, an autodidact polymath and polyglot. 🤓  
 To build software, I use C, C++, Ruby, Python, Golang, etc. on Linux-based systems.  
 
