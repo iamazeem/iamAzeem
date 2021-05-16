@@ -20,8 +20,6 @@ Here are some of my open-source projects:
 - [fluent-plugin-protobuf-http](https://github.com/iamAzeem/fluent-plugin-protobuf-http) (Ruby)
 - [Sequence Similarity and Identity Calculator](https://github.com/iamAzeem/ssic) (Java)
 
-Thank you for stopping by! 😃 👍
-
 [Email](mailto:azeem.sajid@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/az33msajid) |
 [StackOverflow](https://stackoverflow.com/users/7670262/azeem) |
