@@ -1,6 +1,6 @@
 # Hi! 👋 I am Azeem. 🤓
 
-I am a Software Engineer; and, an autodidact polymath and polyglot.  
+I am a Software Engineer; and, an autodidact polymath and polyglot. 💻 📚 🏋️‍♂️  
 I use C, C++, Go, Ruby, Python, and other languages/tools/technologies to build software.  
 Contact me for freelance software development projects and/or collaborations.
 
