@@ -4,11 +4,16 @@ I am an experienced Software Engineer / Architect. 💻 📚 🏋️‍♂️
 I use C, C++, Go, Ruby, Python, and other languages/tools/technologies to build software.  
 Contact me for freelance software development projects and/or collaborations.
 
+Here are some of my open-source projects:
+
+- https://github.com/iamazeem/TcpClientServerApp (C++)
+- 
+
 [Email](mailto:azeem.sajid@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/az33msajid) |
 [StackOverflow](https://stackoverflow.com/users/7670262/azeem) |
 [RubyGems](https://rubygems.org/profiles/iamAzeem) |
-[GitHub Repositories](https://github.com/iamAzeem?tab=repositories) |
+[GitHub Repositories](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers) |
 [GitHub Gists](https://gist.github.com/iamAzeem)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iamazeem&&style=flat-square)](https://github.com/iamAzeem)
