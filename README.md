@@ -4,9 +4,9 @@ I am an experienced Software Engineer / Architect. 💻 📚 🏋️‍♂️
 I use C, C++, Go, Ruby, Python, and other languages/tools/technologies to build software.  
 Contact me for freelance software development projects and/or collaborations.
 
-If you find my 
+If you find my
 [open-source work](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers)
-useful, please do star that repo. ⭐️ 
+useful, please do star it. ⭐️
 
 [Email](mailto:azeem.sajid@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/az33msajid) |
