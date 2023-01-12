@@ -15,8 +15,6 @@ that you find useful.
 [GitHub Public Repositories](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers) |
 [GitHub Gists](https://gist.github.com/iamAzeem)
 
+[![GitHub User's stars](https://img.shields.io/github/stars/iamazeem?color=green&label=Stars&style=flat-square)](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers)
 [![Profile Views](https://komarev.com/ghpvc/?username=iamazeem&&style=flat-square)](https://github.com/iamAzeem)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/iamazeem)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamAzeem&theme=algolia&show_icons=true&count_private=true)](https://github.com/iamAzeem/)
-[![Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAzeem&theme=algolia&langs_count=10&layout=compact&hide_title=true)](https://github.com/iamAzeem/)
