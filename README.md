@@ -16,6 +16,6 @@ that you find useful.
 [GitHub Gists](https://gist.github.com/iamAzeem)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7670262?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/7670262)
-[![GitHub User's stars](https://img.shields.io/github/stars/iamazeem?color=green&label=GitHub%20Stars&style=flat-square)](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers)
+[![GitHub User's stars](https://img.shields.io/github/stars/iamazeem?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers)
 [![Profile Views](https://komarev.com/ghpvc/?username=iamazeem&&style=flat-square)](https://github.com/iamAzeem)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/iamazeem)
