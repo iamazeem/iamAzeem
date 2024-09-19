@@ -21,6 +21,7 @@ Here are some of my open-source projects:
 - [GmailArchiver](https://github.com/iamazeem/GmailArchiver) (C++)
 - [substitute-action](https://github.com/iamazeem/substitute-action) (Shell/Bash)
 - [security-headers-action](https://github.com/iamazeem/security-headers-action) (Shell/Bash)
+- [setup-oracle-instant-client-action](https://github.com/iamazeem/setup-oracle-instant-client-action)
 - [proto-convert](https://github.com/iamazeem/proto-convert) (Ruby)
 - [fluent-plugin-protobuf-http](https://github.com/iamazeem/fluent-plugin-protobuf-http) (Ruby)
 - [fluent-plugin-json](https://github.com/iamazeem/fluent-plugin-json) (Ruby)
