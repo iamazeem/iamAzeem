@@ -16,12 +16,12 @@ Contact me for freelance software development projects and collaborations.
 
 Here are some of my open-source projects:
 
-- [TcpClientServerApp](https://github.com/iamazeem/TcpClientServerApp) (C++)
-- [spancopy](https://github.com/iamazeem/spancopy) (C++)
-- [GmailArchiver](https://github.com/iamazeem/GmailArchiver) (C++)
-- [substitute-action](https://github.com/iamazeem/substitute-action) (Shell/Bash)
-- [security-headers-action](https://github.com/iamazeem/security-headers-action) (Shell/Bash)
 - [setup-oracle-instant-client-action](https://github.com/iamazeem/setup-oracle-instant-client-action) (Shell/Bash)
+- [security-headers-action](https://github.com/iamazeem/security-headers-action) (Shell/Bash)
+- [substitute-action](https://github.com/iamazeem/substitute-action) (Shell/Bash)
 - [proto-convert](https://github.com/iamazeem/proto-convert) (Ruby)
 - [fluent-plugin-protobuf-http](https://github.com/iamazeem/fluent-plugin-protobuf-http) (Ruby)
 - [fluent-plugin-json](https://github.com/iamazeem/fluent-plugin-json) (Ruby)
+- [TcpClientServerApp](https://github.com/iamazeem/TcpClientServerApp) (C++)
+- [spancopy](https://github.com/iamazeem/spancopy) (C++)
+- [GmailArchiver](https://github.com/iamazeem/GmailArchiver) (C++)
