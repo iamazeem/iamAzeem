@@ -16,6 +16,7 @@ Contact me for freelance software development projects and collaborations.
 
 Here are some of my open-source projects:
 
+- [zsv-playground](https://github.com/iamazeem/zsv-playground) (Golang/HTML/CSS/JavaScript/HTMX/Bootstrap)
 - [setup-oracle-instant-client-action](https://github.com/iamazeem/setup-oracle-instant-client-action) (Shell/Bash)
 - [security-headers-action](https://github.com/iamazeem/security-headers-action) (Shell/Bash)
 - [substitute-action](https://github.com/iamazeem/substitute-action) (Shell/Bash)
