@@ -5,7 +5,7 @@ I use C, C++, Go, Ruby, Python, and other technologies to build software.
 Contact me for freelance software development projects and collaborations.
 
 [Email](mailto:azeem.sajid@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/az33msajid) |
+[LinkedIn](https://www.linkedin.com/in/azeemsajidali) |
 [StackOverflow](https://stackoverflow.com/users/7670262/azeem) |
 [RubyGems](https://rubygems.org/profiles/iamAzeem) |
 [GitHub Public Repositories](https://github.com/iamazeem?tab=repositories&q=&type=public&language=&sort=stargazers) |
