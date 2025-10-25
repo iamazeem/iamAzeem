@@ -1,6 +1,6 @@
-# Hi! 👋 I am Azeem. 🤓
+# Hi! 👋 I am Azeem. 🤓 💻 📚 🏋️‍♂️
 
-I am an experienced hands-on Software Engineer/Architect. 💻 📚 🏋️‍♂️  
+I am an experienced hands-on Software Engineer/Architect.  
 Contact me for freelance software development projects and collaborations.
 
 [Email](mailto:azeem.sajid@gmail.com) |
